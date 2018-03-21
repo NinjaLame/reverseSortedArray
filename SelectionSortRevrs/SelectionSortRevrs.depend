@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1521544997 source:c:\users\labdas\desktop\selectionsortrevrs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1521552715 
+
+1521552715 source:f:\selectionsortrevrs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1521559823 source:/home/salmonela/Downloads/SelectionSortRevrs/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
